@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\sebastian\documents\aaa.\main.cpp
+	<iostream>
+
+1578389055 source:c:\users\sebastian\documents\aaa\main.cpp
+	<iostream>
+	<vector>
+	<exception>
+	<cmath>
+	<utility>
+
